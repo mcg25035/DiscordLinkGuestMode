@@ -1,0 +1,4 @@
+name: DiscordLinkGuestMode
+version: '${project.version}'
+main: dev.mcloudtw.dcgm.Main
+api-version: '1.20'
